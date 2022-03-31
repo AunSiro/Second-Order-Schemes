@@ -3,4 +3,4 @@ numpy>=1.16
 matplotlib>=3.1
 casadi>=3.5.1
 scipy>=1.4
-git+git://github.com/AunSiro/optibot#egg=Optibot
+git+https://github.com/AunSiro/optibot#egg=Optibot
